@@ -13,3 +13,5 @@ Skrypt poleceń DML wprowadzających przykładowe dane do bazy został wygenerow
 W każdym ze środowisk (ORACLE i MS SQL Server) po dwie procedury i dwa wyzwalacze
 
 W T-SQL oraz w PL/SQL użyłem kursorów w procedurach, dodatkowo w PL/SQL jeden z wyzwalaczy jest FOR EACH ROW
+
+Dla wszystkich instrukcji SELECT, procedur i wyzwalaczy są napisane komentarze z krótkim opisem
