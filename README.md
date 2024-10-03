@@ -11,4 +11,5 @@ Skrypt poleceń DML wprowadzających przykładowe dane do bazy został wygenerow
 - 5 poleceń z podzapytaniem, w tym 2 z podzapytaniem skorelowanym
 
 W każdym ze środowisk (ORACLE i MS SQL Server) po dwie procedury i dwa wyzwalacze
+
 W T-SQL oraz w PL/SQL użyłem kursorów w procedurach, dodatkowo w PL/SQL jeden z wyzwalaczy jest FOR EACH ROW
